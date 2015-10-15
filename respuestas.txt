@@ -18,4 +18,8 @@ Respuestas a las preguntas de la practica 3
 
 
 
+
 3.- ¿Cual es la ventaja de reorganizar (rebase)?
+
+2.- ¿Que es una reorganizacion (rebase)?
+
